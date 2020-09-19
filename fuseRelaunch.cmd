@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/2181042/Documents/Eletronica Progravavel/eq2/eq2_test_isim_beh.exe" -prj "C:/Users/2181042/Documents/Eletronica Progravavel/eq2/eq2_test_beh.prj" "work.eq2_test" 

@@ -1,0 +1,16 @@
+# This file is a general .ucf for Basys2 rev C board
+# To use it in a project:
+# - remove or comment the lines corresponding to unused pins
+# - rename the used signals according to the project
+
+
+# ==== SLIDE SWITCHES (SW)
+NET "a<0>" LOC = "P11"   |    IOSTANDARD =LVTTL | PULLUP;
+NET "a<1>" LOC = "L3"   |    IOSTANDARD =LVTTL | PULLUP;
+NET "b<0>" LOC = "K3"   |    IOSTANDARD =LVTTL | PULLUP;
+NET "b<1>" LOC = "B4"   |    IOSTANDARD =LVTTL | PULLUP;
+
+#====DISCRETE LEDS======
+NET "aeqb" LOC = "M5"   |    IOSTANDARD =LVTTL | SLEW = SLOW | DRIVE = 8;
+
+

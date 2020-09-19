@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/2181042/Documents/Eletronica Progravavel/eq2/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/2181042/Documents/Eletronica Progravavel/eq2/xst"
+elaborate
+-ifn eq1.prj
+-ifmt mixed

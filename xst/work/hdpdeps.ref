@@ -1,0 +1,15 @@
+V3 6
+FL "C:/Users/2181042/Documents/Eletronica Progravavel/eq2/eq1.vhd" 2020/09/19.16:57:32 P.58f
+EN work/eq1 1600531484 \
+      FL "C:/Users/2181042/Documents/Eletronica Progravavel/eq2/eq1.vhd" \
+      PB ieee/std_logic_1164 1364358218
+AR work/eq1/sop_arch 1600531485 \
+      FL "C:/Users/2181042/Documents/Eletronica Progravavel/eq2/eq1.vhd" \
+      EN work/eq1 1600531484
+FL "C:/Users/2181042/Documents/Eletronica Progravavel/eq2/eq2.vhd" 2020/09/19.16:57:32 P.58f
+EN work/eq2 1600531486 \
+      FL "C:/Users/2181042/Documents/Eletronica Progravavel/eq2/eq2.vhd" \
+      PB ieee/std_logic_1164 1364358218
+AR work/eq2/struct_arch 1600531487 \
+      FL "C:/Users/2181042/Documents/Eletronica Progravavel/eq2/eq2.vhd" \
+      EN work/eq2 1600531486 AR work/eq1/sop_arch 1600531485
